@@ -29,5 +29,5 @@ footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 1
 .timeline li { display:flex; gap:1rem; padding:.3rem 0; }
 .timeline span { flex:0 0 7.5rem; color:var(--muted); }
 .photo { margin:1.5rem 0; }
-.photo img { width:100%; border-radius:8px; display:block; }
+.photo img { width:100%; height:auto; border-radius:8px; display:block; }
 .photo figcaption { color:var(--muted); font-size:.85rem; margin-top:.4rem; }
